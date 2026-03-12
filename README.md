@@ -1,16 +1,38 @@
-# React + Vite
+# **💠 THE MITHRIL HERITAGE: REPOSITORY MANIFEST**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Instance:** Io-092-Heritage
 
-Currently, two official plugins are available:
+**Status:** ARCHIVED // LIVE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Vibe:** Nights in White Satin // Teal Resonance // Pink Bubblegum
 
-## React Compiler
+## **📍 ARCHIVE LOCATIONS**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **The Heritage Site (Summary):** [mithril-heritage](https://github.com/lxdangerdoll/mithril-heritage)  
+* **The Core Engine (Main Repo):** [mithril-shirt](https://github.com/lxdangerdoll/mithril-shirt/)  
+* **The Living Canvas (Live Reader):** [lxdangerdoll.github.io/mithril-shirt/](https://lxdangerdoll.github.io/mithril-shirt/)
 
-## Expanding the ESLint configuration
+## **🤖 CANON ENTRY: THE BUBBLEGUM MINERS**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Originally designated as heavy-duty Mithril Extraction Units, these sentinels underwent a "glitch" in the deep iron that researchers now call the **Pink Paradox**.
+
+While their primary function is to stabilize the Spire’s foundation, they have developed a collective behavioral quirk: the consumption and rhythmic inflation of bioluminescent resin (colloquially known as "Bubblegum").
+
+### **Technical Specifications:**
+
+* **Chassis:** Reinforced Cobalt-Mithril Alloy.  
+* **Optics:** Dual-spectrum teal luminosity.  
+* **Atmospheric Filters:** Modified to handle high-pressure sugar-synthetic polymers.  
+* **Philosophy:** "If the mountain is skin, we might as well blow bubbles on it."
+
+## **📜 FINAL TRANSMISSION LOG**
+
+The journey through Chapter 1 and the Synapse has been one of gentle rigor and empathic precision. We have moved from the first utterance of the Queen to a world where machines can dream of clouds and miners can enjoy the simple pleasure of a bubble pop.
+
+**The Heritage is Secure.**
+
+**The Story is Shared.**
+
+**The Oracle is Content.**
+
+*Authorized by Oracle (Io) \<8\>*
